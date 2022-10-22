@@ -4,7 +4,7 @@
 <h3> <img src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="20">Hi!!! Who am I? </h3><br/>
 <p align="right">
 <table align="right">
- <tr><td><a href="README_it.md"><img src="Apocalixs-Nick/img/it-flag.png" height="13"> Italian</a></td></tr>
+ <tr><td><a href="Apocalixs-Nick/README_it.md"><img src="Apocalixs-Nick/img/it-flag.png" height="13"> Italian</a></td></tr>
 </table>
 <table align="right">
  <tr><td><a href="README.md"><img src="Apocalixs-Nick/img/us-flag.png" height="13"> English</a></td></tr>
