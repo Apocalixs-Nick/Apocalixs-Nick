@@ -49,7 +49,12 @@
   <a href="https://www.instagram.com/nicola_piccirillo_04/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nicola-piccirillo-05a76b254"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-  <img align="left" width="6000" height="165" src="https://github-readme-stats.vercel.app/api?username=Apocalixs-Nick&show_icons=true&hide_border=true&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=nightowl"/>
+  <!--<img align="left" width="6000" height="165" src="https://github-readme-stats.vercel.app/api?username=Apocalixs-Nick&show_icons=true&hide_border=true&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=nightowl"/>-->
+
+
+<a href="https://github.com/Apocalixs-Nick" align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Apocalixs-Nick&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Apocalixs-Nick&style=plastic&label=Views"><img></p>
