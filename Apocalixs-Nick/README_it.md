@@ -51,10 +51,11 @@
 </p>
   <!--<img align="left" width="6000" height="165" src="https://github-readme-stats.vercel.app/api?username=Apocalixs-Nick&show_icons=true&hide_border=true&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=nightowl"/>-->
 
-
+<p align="center">
 <a href="https://github.com/Apocalixs-Nick" align="center">
     <img src="https://github-stats-alpha.vercel.app/api?username=Apocalixs-Nick&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Apocalixs-Nick&style=plastic&label=Views"><img></p>
