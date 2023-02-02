@@ -10,7 +10,7 @@
  <tr><td><a href="README.md"><img src="img/us-flag.png" height="13"> English</a></td></tr>
 </table>
 <p>
-  👨 Sono <bold>Nicola</bold>. 18 anni.<br/>
+  👨 Sono <bold>Nicola</bold>. 19 anni.<br/>
   🎓 Sono un Perito Industriale in Informatica.<br/>
   💻 Attualmente lavoro come tirocinante presso <a href="https://www.netcomgroup.eu/">Netcom Group S.p.a</a> come Android developer.<br/>
   🌌Amante dello sport, delle avventure, viaggi, auto e del progresso tecnologico.
