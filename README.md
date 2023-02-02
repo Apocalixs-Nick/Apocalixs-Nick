@@ -10,7 +10,7 @@
  <tr><td><a href="README.md"><img src="Apocalixs-Nick/img/us-flag.png" height="13"> English</a></td></tr>
 </table>
 <p>
-  👨 I'm <bold>Nicola</bold>. 18 years old.<br/>
+  👨 I'm <bold>Nicola</bold>. 19 years old.<br/>
   🎓 I’m an Industrial Computer Expert.<br/>
   💻 I currently work as an intern at <a href="https://www.netcomgroup.eu/">Netcom Group S.p.a</a> as an Android developer.<br/>
   🌌Lover of sport, adventure, travel, car and technological progress.
