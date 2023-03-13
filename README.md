@@ -47,7 +47,7 @@
 <p align="center">
 <a href="mailto:nicolapiccirillo04@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/nicola_piccirillo_04/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nicola-piccirillo-05a76b254"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nicola-piccirillo"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
   <!--<img align="left" width="6000" height="165" src="https://github-readme-stats.vercel.app/api?username=Apocalixs-Nick&show_icons=true&hide_border=true&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=nightowl"/>-->
 
