@@ -11,8 +11,8 @@
 </table>
 <p>
   👨 Sono <bold>Nicola</bold>. 19 anni.<br/>
-  🎓 Sono un Perito Industriale in Informatica.<br/>
-  💻 Attualmente lavoro come tirocinante presso <a href="https://www.netcomgroup.eu/">Netcom Group S.p.a</a> come Android developer.<br/>
+  🎓 Sono un Perito Informatico.<br/>
+  💻 Attualmente lavoro presso <a href="https://www.netcomgroup.eu/">Netcom Group S.p.a</a> come Junior Android Developer.<br/>
   🌌Amante dello sport, delle avventure, viaggi, auto e del progresso tecnologico.
 </p>
 
